@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Stefan 👋
 
 Software Architect focused on Go, AWS, distributed systems, event-driven backends, and high-throughput integrations.
