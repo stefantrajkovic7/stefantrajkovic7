@@ -32,7 +32,7 @@ I enjoy building systems where correctness, observability, and maintainability m
 
 <p>
   <img height="180em" src="https://github-readme-stats-n-orpin.vercel.app/api/multi-stats?usernames=stefantrajkovic7&include_all_commits=true&theme=dark&show=discussions_started&custom_title=Github&show_icons=true&count_private=true&hide_border=true&v=1" />
-  <img height="180em" src="https://github-readme-stats-n-orpin.vercel.app/api/multi-top-langs?usernames=stefantrajkovic7&layout=compact&theme=dark&custom_title=Top+10+languages&hide_border=true&langs_count=10&hide=html%2Ccss%2Cscss%2Cless%2Cc%23%2Capacheconf%2Cshell%2Casp&v=2" />
+  <img height="180em" src="https://github-readme-stats-n-orpin.vercel.app/api/custom-stack?title=Professional+Stack&v=1" />
 </p>
 
 ## 📌 Featured repositories
