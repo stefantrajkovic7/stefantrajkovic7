@@ -28,11 +28,11 @@ I enjoy building systems where correctness, observability, and maintainability m
 - Operational metrics and alerting
 - Backend systems that survive real-world chaos
 
-## 📊 GitHub Stats
+## 📊 Code profile
 
 <p>
-  <img height="180em" src="https://github-readme-stats-mu-six-96.vercel.app/api?username=stefantrajkovic7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-mu-six-96.vercel.app/api/top-langs/?username=stefantrajkovic7&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html,css,scss,less" />
+  <img height="180em" src="https://github-readme-stats-mu-six-96.vercel.app/api?username=stefantrajkovic7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&v=2" />
+  <img height="180em" src="https://github-readme-stats-mu-six-96.vercel.app/api/top-langs/?username=stefantrajkovic7&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html%2Ccss%2Cscss%2Cless&exclude_repo=machine-learning%2Csports-micro-service-nest-kafka%2CTypescript-Design-Patterns&v=2" />
 </p>
 
 ## 📌 Featured repositories
