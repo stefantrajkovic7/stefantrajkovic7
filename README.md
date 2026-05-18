@@ -17,26 +17,33 @@ Go · AWS · PostgreSQL · DynamoDB · EventBridge · Step Functions · Lambda �
 - Observability, retries, idempotency, and operational resilience
 - Clean architecture, DDD, and service boundaries
 
+## 🧩 Architecture focus
+
+I enjoy building systems where correctness, observability, and maintainability matter:
+
+- Idempotent event processing
+- Cloud workflow orchestration
+- Service boundaries and domain modeling
+- Integration pipelines
+- Operational metrics and alerting
+- Backend systems that survive real-world chaos
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://dd-phi-eight.vercel.app/api/multi-stats?usernames=stefantrajkovic7&include_all_commits=true&theme=dark&custom_title=Github&show_icons=true&count_private=true&hide_border=true) ![Top Langs](https://dd-phi-eight.vercel.app/api/multi-top-langs?usernames=stefantrajkovic7&layout=compact&theme=dark&custom_title=Top+10+languages&hide_border=true&langs_count=10)
+
 ## 📌 Featured repositories
 
-[![Go Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=stefantrajkovic7&repo=GO-SOLID-Classic-Design-Patterns&theme=transparent)](https://github.com/stefantrajkovic7/GO-SOLID-Classic-Design-Patterns)
+- [GO-SOLID-Classic-Design-Patterns](https://github.com/stefantrajkovic7/GO-SOLID-Classic-Design-Patterns)  
+  Software design patterns in Go.
 
-[![TypeScript Design Patterns](https://github-readme-stats.vercel.app/api/pin/?username=stefantrajkovic7&repo=Typescript-Design-Patterns&theme=transparent)](https://github.com/stefantrajkovic7/Typescript-Design-Patterns)
+- [Typescript-Design-Patterns](https://github.com/stefantrajkovic7/Typescript-Design-Patterns)  
+  Object-oriented design patterns in TypeScript.
 
-## 📊 GitHub stats
+- [sports-micro-service-nest-kafka](https://github.com/stefantrajkovic7/sports-micro-service-nest-kafka)  
+  Event-driven microservice using NestJS and Kafka.
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefantrajkovic7&show_icons=true&theme=transparent&hide_border=true)
+## 📫 Contact
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefantrajkovic7&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=stefantrajkovic7&theme=transparent&hide_border=true)
-
-## 🏗️ Architecture interests
-
-```text
-Cloud-native systems
-Event-driven architecture
-Backend platform engineering
-Workflow orchestration
-Distributed reliability
-Developer tooling
+- LinkedIn: https://rs.linkedin.com/in/stefan-trajkovic-32095b11a
+- Email: stefantrajkovic777@gmail.com
