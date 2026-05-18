@@ -30,8 +30,9 @@ I enjoy building systems where correctness, observability, and maintainability m
 
 ## 📊 GitHub Stats
 
+## 📊 Code profile
+
 <p>
-  <img height="180em" src="https://dd-phi-eight.vercel.app/api/multi-stats?usernames=stefantrajkovic7&include_all_commits=true&theme=dark&custom_title=Github&show_icons=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefantrajkovic7&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html,css,scss,less" />
 </p>
 
