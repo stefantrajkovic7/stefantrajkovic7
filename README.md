@@ -30,11 +30,7 @@ I enjoy building systems where correctness, observability, and maintainability m
 
 ## 📊 GitHub Stats
 
-## 📊 Code profile
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefantrajkovic7&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=html,css,scss,less" />
-</p>
+[![Top Langs](https://vercel.app)](https://github.com/stefantrajkovic7/github-readme-stats)
 
 ## 📌 Featured repositories
 
